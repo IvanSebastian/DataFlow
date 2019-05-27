@@ -2,8 +2,8 @@
 //  ConfirmViewController.swift
 //  DataFlow
 //
-//  Created by Savitri Nurhayati on 16/05/19.
-//  Copyright © 2019 Savitri Nurhayati. All rights reserved.
+//  Created by Ivan Sebastian Edbert on 16/05/19.
+//  Copyright © 2019 Ivan Sebastian Edbert. All rights reserved.
 //
 
 import UIKit
